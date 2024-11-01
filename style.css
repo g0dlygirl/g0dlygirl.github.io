@@ -5,5 +5,11 @@ h1 {
     font-family: Helvetica;
     color: whitesmoke;
     text-align:center;
-    font-size: large;
+    font-size: 50;
+  }
+  h2 {
+    font-family: Helvetica;
+    color: whitesmoke;
+    text-align:center;
+    font-size: 30;
   }
